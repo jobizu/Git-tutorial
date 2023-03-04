@@ -1,0 +1,1 @@
+console("Version 1");
