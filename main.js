@@ -1,1 +1,1 @@
-console("Version 1");
+console("Version 2");

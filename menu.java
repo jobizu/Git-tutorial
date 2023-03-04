@@ -1,5 +1,5 @@
 public class menu {
     public static void main(String[] args) {
-        System.out.println("Here we go!");
+        System.out.println("We came to conquer");
     }
 }
